@@ -1,2 +1,2 @@
 # Computer-Vision
-combination of common computer vision algorithms .
+classifying Cancer/Brain images with tumor .
