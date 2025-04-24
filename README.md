@@ -5,7 +5,7 @@ Classifying Cancer/Brain images with a tumor. You have to divide your files into
 
 ## Model summary parameters
  <p>
-    <img src="https://github.com/user-attachments/assets/ca4b38cb-9f84-4265-8806-ead753902116"  width="500"/>
+    <img src="https://github.com/user-attachments/assets/ca4b38cb-9f84-4265-8806-ead753902116"  width="800"/>
   </p>
 
 ### Breast Benign Detection
